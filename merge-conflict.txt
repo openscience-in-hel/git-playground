@@ -1,6 +1,7 @@
 Hey !! here comes the fun part. Lets fix the merge conflict
-Lina, LS hello
-Natali, Add some contents here <>
+Lina, Add some contents here <> LS hello
+Natali, Add some contents here < final>
 Ira, Add some contents here <>
-Lina and Natali, LS hello
-Lina, Ira and Natali, LS hello
+Lina and Natali, Add some contents here < final fun> LS hello
+Lina, Ira and Natali, Add some contents here < final fun or?> LS hello
+
