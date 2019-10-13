@@ -1,6 +1,6 @@
 Hey !! here comes the fun part. Lets fix the merge conflict
 Lina, Add some contents here <>
 Natali, Add some contents here <>
-Ira, Add some contents here <>
+Ira, Add some contents here <some contents>
 Lina and Natali, Add some contents here <>
-Lina, Ira and Natali, Add some contents here <>
+Lina, Ira and Natali, Add some contents here <some more contents>
